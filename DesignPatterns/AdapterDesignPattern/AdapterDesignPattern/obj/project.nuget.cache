@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4sKlIInzaZvwJuZ8CRsTNjjAKARt7Rplul+NkxdH7ssYIxetOvDDg53ltcExmNGfkIlBfD3GqUlfPfam4xmIyQ==",
+  "success": true,
+  "projectFilePath": "D:\\LLD\\AdapterDesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

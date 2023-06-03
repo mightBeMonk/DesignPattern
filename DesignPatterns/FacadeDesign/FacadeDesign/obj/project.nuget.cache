@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ked9O5UeRH/pNbxUrvZ9Wo8ivEDkFhkOEH5nAa8UmTM8vx8kERg0eUZ5OSWdMk0i4kecpHtsKwsJBbRM4UstSQ==",
+  "success": true,
+  "projectFilePath": "D:\\LLD\\FacadeDesign\\FacadeDesign\\FacadeDesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Robin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

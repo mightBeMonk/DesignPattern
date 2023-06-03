@@ -1,0 +1,15 @@
+D:\LLD\FactoryDesign\FactoryDesign\bin\Debug\net7.0\FactoryDesign.exe
+D:\LLD\FactoryDesign\FactoryDesign\bin\Debug\net7.0\FactoryDesign.deps.json
+D:\LLD\FactoryDesign\FactoryDesign\bin\Debug\net7.0\FactoryDesign.runtimeconfig.json
+D:\LLD\FactoryDesign\FactoryDesign\bin\Debug\net7.0\FactoryDesign.dll
+D:\LLD\FactoryDesign\FactoryDesign\bin\Debug\net7.0\FactoryDesign.pdb
+D:\LLD\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.csproj.AssemblyReference.cache
+D:\LLD\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\LLD\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.AssemblyInfoInputs.cache
+D:\LLD\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.AssemblyInfo.cs
+D:\LLD\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.csproj.CoreCompileInputs.cache
+D:\LLD\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.dll
+D:\LLD\FactoryDesign\FactoryDesign\obj\Debug\net7.0\refint\FactoryDesign.dll
+D:\LLD\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.pdb
+D:\LLD\FactoryDesign\FactoryDesign\obj\Debug\net7.0\FactoryDesign.genruntimeconfig.cache
+D:\LLD\FactoryDesign\FactoryDesign\obj\Debug\net7.0\ref\FactoryDesign.dll

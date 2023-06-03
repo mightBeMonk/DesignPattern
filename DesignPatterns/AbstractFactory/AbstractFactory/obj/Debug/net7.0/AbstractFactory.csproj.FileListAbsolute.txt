@@ -1,0 +1,15 @@
+D:\LLD\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.AssemblyReference.cache
+D:\LLD\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\LLD\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\LLD\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+D:\LLD\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\LLD\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+D:\LLD\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+D:\LLD\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+D:\LLD\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+D:\LLD\AbstractFactory\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+D:\LLD\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+D:\LLD\AbstractFactory\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+D:\LLD\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+D:\LLD\AbstractFactory\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+D:\LLD\AbstractFactory\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll
